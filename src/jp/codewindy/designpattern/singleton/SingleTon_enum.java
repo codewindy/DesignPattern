@@ -1,4 +1,4 @@
-package jp.codewindy.designpattern;
+package jp.codewindy.designpattern.singleton;
 /**
  * 枚举方式实现 ,本身就是单例的jvm 原生支持的方式
  * 防止了反射 反序列的安全问题

@@ -1,4 +1,4 @@
-package jp.codewindy.designpattern;
+package jp.codewindy.designpattern.singleton;
 
 import java.util.concurrent.CountDownLatch;
 

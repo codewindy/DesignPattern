@@ -1,4 +1,4 @@
-package jp.codewindy.designpattern;
+package jp.codewindy.designpattern.singleton;
 
 /**
  * 双重检测锁模式实现单例模式 由于编译器和jvm 内存模型不支持 不建议
