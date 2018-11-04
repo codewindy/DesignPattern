@@ -8,7 +8,10 @@ package jp.codewindy.designpattern.singleton;
  */
 public class SingleTon_hungry {
 
-	private SingleTon_hungry() {if(instance!=null) throw new RuntimeException();};
+	private SingleTon_hungry() {
+		if (instance != null)
+			throw new RuntimeException();
+	};
 
 	private static SingleTon_hungry instance = new SingleTon_hungry();
 
